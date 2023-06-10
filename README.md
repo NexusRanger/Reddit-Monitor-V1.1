@@ -29,3 +29,5 @@ Click: 'New Project', clear the window and paste in the Javascript from Reddit-M
  Useage: set a time trigger (clock icon on left) to run:'checkForNewPosts'. 
  
  Run frequently up to 1/min for live updates, or every few hours for a regular overview
+ 
+ Questions? Message me on Reddit u/Godberd
