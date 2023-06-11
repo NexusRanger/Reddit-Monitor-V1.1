@@ -31,5 +31,5 @@ Or you can simply import the project from here: <a href="https://script.google.c
  Useage: set a time trigger (clock icon on left) to run:'checkForNewPosts'. 
  
  Run frequently up to 1/min for live updates, or every few hours for a regular overview
- 
- Questions? Ask on Reddit u/Godberd
+ # 
+ Questions? Ask on Reddit - u/Godberd
