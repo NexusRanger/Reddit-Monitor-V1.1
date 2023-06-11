@@ -18,6 +18,8 @@ Open Script.Google.com  You shouldn't need to log in if your already logged into
 
 Click: 'New Project', clear the window and paste in the Javascript from Reddit-Monitor-V1-1.js
 
+Or you can simply import the project from here: <a href="https://script.google.com/d/1h7hTRlp1Tet7fFuBm9iuc4fIZeSTkX0rsM76scEzION9wx5S7GhDf9dm/edit?usp=sharing">  Reddit Monitor - Google Apps Scripts</a>
+
  Save the script, then click Run and grant permissions. 
  
  No need to 'Deploy' unless you need to trigger remotely
