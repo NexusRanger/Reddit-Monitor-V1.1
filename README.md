@@ -30,7 +30,7 @@ Or you can simply import the project from here: <a href="https://script.google.c
  
  & sending only to YOUR OWN email address & there is NO outside access
  
- Useage: set a time trigger (clock icon on left) to run:'checkForNewPosts'. 
+ Useage: set a time trigger (clock icon on left) to run: 'checkForNewPosts'. 
  
  Run frequently up to 1/min for live updates, or every few hours for a regular overview
  # 
