@@ -4,7 +4,7 @@ A new way to stay updated
 
 Reddit Monitor is a powerful Google Apps Script that keeps you up-to-date with your favourite subreddits. With Reddit Monitor, you can:
 
-- Receive instant email updates or regular summaries over any time period you choose.
+- Receive instant email updates of new posts, or regular summaries over any time period you choose.
 
 - Get notified of new posts within 1 minute, or browse overnight posts on your way to work.
 
