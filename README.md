@@ -18,22 +18,24 @@ Setup is quick and easy - simply paste in the script, enter your email address a
 
 # Instructions:
 
-Open Script.Google.com  You shouldn't need to log in if your already logged into Chrome
+Open Script.Google.com  You won't need to log in if your already logged into Chrome
 
 Click: 'New Project', clear the window and paste in the Javascript from Reddit-Monitor-V1-1.js
 
 Or you can simply import the project from here: <a href="https://script.google.com/d/1h7hTRlp1Tet7fFuBm9iuc4fIZeSTkX0rsM76scEzION9wx5S7GhDf9dm/edit?usp=sharing">  Reddit Monitor - Google Apps Scripts</a>
 
- Save the script, then click Run and grant permissions. 
+ Save the script, then click Run and grant permissions
  
  No need to 'Deploy' unless you need to trigger remotely
    
- Re: permissions, you are saving this script & running it on YOUR OWN account, 
+ Re: permissions, you are saving this script & running it on YOUR OWN account... 
  
- & sending only to YOUR OWN email address & there is NO outside access
+ ...& sending only to YOUR OWN email address & there is NO outside access
  
- Useage: set a time trigger (clock icon on left) to run: 'checkForNewPosts'. 
+ Useage: set a time trigger (clock icon on left) to run: 'checkForNewPosts' 
  
  Run frequently up to 1/min for live updates, or every few hours for a regular overview
+ 
+ Or set up two or more Scripts, run one every minuite for a favourite subreddit, and others over hours?
  # 
  Questions? Ask on Reddit - u/Godberd
