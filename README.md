@@ -26,11 +26,11 @@ Or you can simply import the project from here: <a href="https://script.google.c
 
  Save the script, then click Run and grant permissions
  
- No need to 'Deploy' unless you need to trigger remotely
+ (No need to 'Deploy' unless you need to trigger remotely)
    
- Re: permissions, you are saving this script & running it on YOUR OWN account... 
+  - Re: permissions, you are saving this script & running it on YOUR OWN account... 
  
- ...& sending only to YOUR OWN email address & there is NO outside access
+  - ...& sending only to YOUR OWN email address & there is NO outside access
  
  Useage: set a time trigger (clock icon on left) to run: 'checkForNewPosts' 
  
