@@ -15,7 +15,7 @@ Reddit Monitor is a powerful Google Apps Script that keeps you up-to-date with y
 - Setup time ≈ 2 mins
 
 Setup is quick and easy - simply paste in the script, enter your email address and favourite subreddits, and you're ready to go. You can also filter posts by subject or user, or exclude topics that don't interest you. Reddit Monitor uses publicly available live data but because it doesn't 'write' anything to Reddit it shouldn't be affected by API changes.
-
+#
 # Instructions:
 
 Open Script.Google.com  You won't need to log in if your already logged into Chrome
