@@ -36,4 +36,4 @@ Or you can simply import the project from here: <a href="https://script.google.c
  
  Or set up two or more Scripts, run one every minuite monitoring a favourite subreddit, and others over hours?
  # 
- Questions? Ask on Reddit - u/Godberd
+ Questions or Suggestions? Ask on Reddit - u/Godberd
