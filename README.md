@@ -12,7 +12,7 @@ Reddit Monitor is a powerful Google Apps Script that keeps you up-to-date with y
 
 - Email notification includes Post Title, Post Text, User, Karma Score, Time etc.
 
-- Setup time ≈ 2 mins
+- All info concise and colour coded - Setup time ≈ 2 mins
 
 Setup is quick and easy - simply paste in the script, enter your email address and favourite subreddits, and you're ready to go. You can also filter posts by subject or user, or exclude topics that don't interest you. Reddit Monitor uses publicly available live data but because it doesn't 'write' anything to Reddit it shouldn't be affected by API changes.
 #
